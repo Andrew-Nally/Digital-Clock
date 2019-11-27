@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Monoton|Notable|Orbitron&display=swap');
+
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+body {
+  background: url("https://i.ibb.co/K7tVnbt/IBG-clock.png") no-repeat fixed;
+  background-size: cover;
+  
+}
+.badge{
+  font-family: 'Monoton', cursive;
+  font-size:360px;
+  font-weight:bold;
+  position:absolute;
+  margin: 450px auto;
+  left: 7%;
+}
